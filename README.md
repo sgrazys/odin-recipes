@@ -6,3 +6,5 @@ The goals of this project are:
 
 -   create a web page structure
 -   use semantic HTML elements
+-   practice git
+-   practice to write informative commit messages
