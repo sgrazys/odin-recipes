@@ -8,3 +8,4 @@ The goals of this project are:
 -   use semantic HTML elements
 -   practice git
 -   practice to write informative commit messages
+-   practice basic CLI commands
