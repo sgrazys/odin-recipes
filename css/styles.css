@@ -1,0 +1,23 @@
+.title {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background-color: #ffb6c140;
+}
+
+.lasagna {
+	background-color: aqua;
+}
+
+.link {
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	background-color: #ffb6c140;
+	color: purple;
+}
+
+p,
+h2,
+h3,
+ol,
+ul {
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-size: 18px;
+}
